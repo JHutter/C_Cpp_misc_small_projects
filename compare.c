@@ -1,5 +1,5 @@
 /*	compare.c: define compare and print for void* to struct data. */
-/* Author: JoAnne Hutter
+/* Author: Jon Hutter
  * Date: 2016-05-08
  * Name: compare.c
  * Solution: define compare and print for void* to struct data */
