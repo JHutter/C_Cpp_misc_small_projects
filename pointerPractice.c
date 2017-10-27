@@ -1,5 +1,5 @@
 /* CS261- Assignment 1 - Q. 0*/
-/* Name: JoAnne Hutter
+/* Name: Jon Hutter
  * Date: 2016-04-10
  * Solution description: Explore pointers by printing the value and address
  * of a variable and passing it by reference to a function.
