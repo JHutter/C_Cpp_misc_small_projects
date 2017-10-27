@@ -1,5 +1,5 @@
 /*	circularList.c: circular doubly linked list implementation. */
-/* Author: JoAnne Hutter
+/* Author: Jon Hutter
  * Date: 2016-04-25
  * Name: circularList.c
  * Solution: implements circular doubly linked list for deque */
