@@ -1,6 +1,6 @@
 /*
  * File: bst.c
- * Author: JoAnne Hutter
+ * Author: Jon Hutter
  * Date: 2016-05-08
  * Solution: define compare and print for void* to struct data
  Implementation of the binary search tree data structure.
