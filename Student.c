@@ -1,5 +1,5 @@
 /* CS261- Assignment 1 - Q.1*/
-/* Name: JoAnne Hutter
+/* Name: Jon Hutter
  * Date: 2016-04-10
  * Solution description: create, assign, summarize 10 student structs
  */
