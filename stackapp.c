@@ -1,5 +1,5 @@
 /*	stack.c: Stack application. */
-/* Author: JoAnne Hutter
+/* Author: Jon Hutter
  * Date: 2016-04-17
  * Name: stackapp.c
  * Solution: Uses a dynArr stack to check for bracket/parenthesis balance */
