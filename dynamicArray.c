@@ -1,5 +1,5 @@
 /*	dynamicArray.c: Dynamic Array implementation. */
-/* Author: JoAnne Hutter
+/* Author: Jon Hutter
  * Date: 2016-04-17
  * Name: dynamicArray.c
  * Solution: implements dynamic array for stack and bag */
